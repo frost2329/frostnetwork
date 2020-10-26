@@ -1,0 +1,10 @@
+.dialogItem a {
+    margin:10px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+
+.dialogItem a:hover {
+    font-weight: bolder;
+}

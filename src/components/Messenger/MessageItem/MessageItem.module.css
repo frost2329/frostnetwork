@@ -1,0 +1,18 @@
+.messageItem {
+    margin-bottom: 20px;
+}
+
+.messageItem p {
+    margin: 0px;
+    font-weight: bold;
+}
+
+.messageItemAvtor {
+    margin-bottom: 10px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
